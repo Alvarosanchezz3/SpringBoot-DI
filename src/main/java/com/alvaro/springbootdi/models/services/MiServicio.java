@@ -1,4 +1,4 @@
-package com.alvaro.springbootdi.controllers.services;
+package com.alvaro.springbootdi.models.services;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;

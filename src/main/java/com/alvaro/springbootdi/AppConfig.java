@@ -7,11 +7,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 
-import com.alvaro.springbootdi.controllers.domain.ItemFactura;
-import com.alvaro.springbootdi.controllers.domain.Producto;
-import com.alvaro.springbootdi.controllers.services.IServicio;
-import com.alvaro.springbootdi.controllers.services.MiServicio;
-import com.alvaro.springbootdi.controllers.services.MiServicioComplejo;
+import com.alvaro.springbootdi.models.domain.ItemFactura;
+import com.alvaro.springbootdi.models.domain.Producto;
+import com.alvaro.springbootdi.models.services.IServicio;
+import com.alvaro.springbootdi.models.services.MiServicio;
+import com.alvaro.springbootdi.models.services.MiServicioComplejo;
 
 @Configuration
 public class AppConfig {

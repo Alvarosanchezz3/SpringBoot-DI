@@ -1,4 +1,4 @@
-package com.alvaro.springbootdi.controllers.services;
+package com.alvaro.springbootdi.models.services;
 
 public interface IServicio {
 

@@ -1,4 +1,4 @@
-package com.alvaro.springbootdi.controllers.domain;
+package com.alvaro.springbootdi.models.domain;
 
 public class ItemFactura {
 

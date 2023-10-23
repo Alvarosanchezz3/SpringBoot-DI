@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.alvaro.springbootdi.controllers.domain.Factura;
+import com.alvaro.springbootdi.models.domain.Factura;
 
 @Controller
 @RequestMapping("/factura")
